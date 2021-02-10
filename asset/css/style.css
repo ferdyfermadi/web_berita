@@ -1,0 +1,177 @@
+.html {
+    width: 1440px;
+    height: 2266px;
+    background-color: #f6f8f9;
+}
+.navbar {
+    height: 85px;
+    margin: 0 0 15px;
+    padding: 23px 54.5px 22px 20px;
+    background-color: #04304d;
+}
+
+.fa-search {
+    font-size: medium;
+    height: 17.5px;
+    width: 17.5px;
+    margin: 10.1px 0 12.4px 59.8px;
+}
+
+.fa-home {
+    width: 16px;
+    height: 16px;
+    margin: 0 30px 0 0;
+    font-size: medium;
+}
+
+.home {
+    width: 31px;
+    height: 12px;
+    margin: 2px 25px 2px 30px;
+    font-family: Helvetica;
+    font-size: 11px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #202124;
+}
+
+.carousel-item {
+    width: 1160px;
+    height: 500px;
+    -webkit-backdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
+}
+
+.my-4 {
+    width: 1160px;
+    height: 0px;
+    border: solid 2px #ebeded;
+}
+
+.carousel-item {
+  /*  overflow: auto; */
+}
+
+.judul_dalam {
+    width: 680px;
+    height: 24px;
+    margin: 0 0 10px;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--white);
+}
+
+.caption_dalam {
+    width: 680px;
+    height: 42px;
+    margin: 10px 0;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--white);
+}
+
+.waktu {
+    width: 106px;
+    height: 15px;
+    margin: 1px 0 0 8px;
+    font-family: Helvetica;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: oblique;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #cbd0d3;
+}
+
+.col-7 {
+    width: 742px;
+    height: 172px;
+    margin: 41px 40px 40px 18px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a6adb4;
+}
+
+.col-6{
+    width: 760px;
+    height: 250px;
+    margin: 40px 40px 40px 0px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a6adb4;
+  }
+
+.col-4 {
+        width: 360px;
+        height: 128px;
+        margin: 41px 0 19px 40px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.86;
+        letter-spacing: normal;
+        text-align: left;
+        color: #a6adb4;
+}
+
+.col-2 {
+    width: 57px;
+    height: 15px;
+    margin: 1px 0 0 8px;
+    font-family: Helvetica;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: oblique;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a6adb4;
+  }
+
+  .konten_kanan{
+    width: 360px;
+    height: 77px;
+    margin: 40px 0 213px 40px;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: oblique;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #202124;
+  }
