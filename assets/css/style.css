@@ -140,7 +140,6 @@ a .dropdown-menu:hover {
   color: inherit;
   background: transparent;
   outline-width: 0px;
-
 }
 
 /*--------------------------------------------------------------
@@ -153,7 +152,6 @@ a .dropdown-menu:hover {
   width: 40%;
   margin-bottom: 20px;
 }
-
 
 form i.fas {
     position: absolute;
@@ -178,7 +176,7 @@ form i.fas {
 
 
 /*--------------------------------------------------------------
-# konten 404
+# ISI KONTEN
 --------------------------------------------------------------*/
 #flip {
   height:100px;
@@ -224,16 +222,11 @@ form i.fas {
 }
 
 .carousel-item {
-  width: 1160px;
-  height: 500px;
   -webkit-backdrop-filter: blur(30px);
   backdrop-filter: blur(30px);
 }
 
-.judul_dalam {
-  width: 680px;
-  height: 24px;
-  margin: 0 0 10px;
+.carousel-caption h5 {
   font-family: Helvetica;
   font-size: 24px;
   font-weight: bold;
@@ -245,10 +238,7 @@ form i.fas {
   color: var(--white);
 }
 
-.caption_dalam {
-  width: 680px;
-  height: 42px;
-  margin: 10px 0;
+.carousel-caption p {
   font-family: Helvetica;
   font-size: 16px;
   font-weight: normal;
@@ -260,20 +250,6 @@ form i.fas {
   color: var(--white);
 }
 
-.waktu {
-  width: 106px;
-  height: 15px;
-  margin: 1px 0 0 8px;
-  font-family: Helvetica;
-  font-size: 13px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: oblique;
-  line-height: 2;
-  letter-spacing: normal;
-  text-align: left;
-  color: #cbd0d3;
-}
 
 .col-7 {
   font-family: Roboto;
@@ -300,15 +276,15 @@ form i.fas {
 }
 
 .col-4 {
-      font-family: Roboto;
-      font-size: 14px;
-      font-weight: normal;
-      font-stretch: normal;
-      font-style: normal;
-      line-height: 1.86;
-      letter-spacing: normal;
-      text-align: left;
-      color: #a6adb4;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a6adb4;
 }
 
 .col-2 {
@@ -336,13 +312,13 @@ form i.fas {
 }
 
 .pagination {
-font-family: Helvetica;
-font-size: 11px;
-font-weight: bold;
-font-stretch: normal;
-font-style: normal;
-line-height: 1.82;
-letter-spacing: normal;
-text-align: center;
-color: #202124;
+  font-family: Helvetica;
+  font-size: 11px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.82;
+  letter-spacing: normal;
+  text-align: center;
+  color: #202124;
 }
